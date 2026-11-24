@@ -1,0 +1,13 @@
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dataset files, archives, and download caches
+datasets/*
+!datasets/.gitkeep

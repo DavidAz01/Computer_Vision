@@ -1,0 +1,3 @@
+gdown
+huggingface_hub
+ipykernel
